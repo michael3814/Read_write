@@ -1,5 +1,5 @@
 # Read_write
-A simple c program to read and write one file to another
+A simple c program to read and write one file to another \n
 The program is capable of reading and writing line-by-line or character-by-character
 
 # Instructions  
